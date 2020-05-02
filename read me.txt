@@ -1,0 +1,5 @@
+
+file1.txt is the text file to run the code 
+Grid is creating from file1.txt
+There are no more instruction about running the code.
+ 
